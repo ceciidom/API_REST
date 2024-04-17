@@ -1,0 +1,12 @@
+{
+  "name": "actividad_semana_1",
+  "version": "1.0.0",
+  "description": "Simple API REST",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cecilia Dominguez",
+  "license": "ISC"
+}
